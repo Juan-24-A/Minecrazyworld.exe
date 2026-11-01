@@ -1,0 +1,8 @@
+{
+  "name": "Minecrazyworld",
+  "description": "Juego 3D sandbox voxel estilo Minecraft con modo creativo, dimensiones (Dimensión de Chocolate, Overworld Paralelo Invertido, Nether, The End), portales interactivos, camas funcionales con ciclo de sueño, comandos de trucos y multijugador en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
